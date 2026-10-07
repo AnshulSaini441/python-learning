@@ -1,2 +1,4 @@
 # python-learning
-My python learning journey, codes and projects.
+Again i started my  python learning journey, and this i will do it 
+and i get the job that i want 
+
