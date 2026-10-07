@@ -1,0 +1,35 @@
+#1 output
+print("hello" ,"anshul saini")
+print("okk")
+
+#2 varible 
+# name = "Anshul"
+# name is varibale and Anshul is value 
+name = "Anshul"
+age = 24
+cgpa = 7.9
+isStudent = True
+print(name)
+print("Age", age)
+print(type(age))
+print(type(cgpa))
+print(type(isStudent))
+
+
+#3 taking input
+new_name = input("enter your name ")
+print(new_name)
+
+#4 concatenation 
+# in this we add 2 string together without spacing 
+name2 = input("enter name for concatenation")
+print("hello" + name2)
+
+#5 typecasting 
+# in typecasting we do that sometime the datatype will be different so user change the type of data 
+# this process is called typecasting
+# age = int (input("enter your age"))
+age = input("enetr your age")
+new_age = int(age ) + 1
+print(new_age)
+print(float(new_age))
